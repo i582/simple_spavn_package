@@ -1,0 +1,7 @@
+[package]
+owner = "i582"
+name = "my-package"
+version = "0.1.0"
+
+[dependencies]
+"i582/simple_package" = { git = "https://github.com/i582/simple_package" }
